@@ -1,0 +1,6 @@
+{
+  "trigger": "droploottables:defeated",
+  "tables": ["coins:coin/defeat"],
+  "battle_types": ["pvw", "pvn", "pvp"],
+  "preserve_base_drops": true
+}

@@ -1,0 +1,5 @@
+{
+  "trigger": "droploottables:evolved",
+  "tables": ["coins:coin/evolve"],
+  "preserve_base_drops": true
+}

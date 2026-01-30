@@ -1,0 +1,5 @@
+{
+  "trigger": "droploottables:captured",
+  "tables": ["coins:coin/catch"],
+  "preserve_base_drops": true
+}

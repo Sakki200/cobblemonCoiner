@@ -1,6 +1,6 @@
 {
   "trigger": "droploottables:leveled",
   "level": 100,
-  "tables": ["coins:coin/level_up"],
+  "tables": ["cobblemonCoiner:coin/level_up"],
   "preserve_base_drops": true
 }

@@ -1,5 +1,5 @@
 {
   "trigger": "droploottables:captured",
-  "tables": ["coins:coin/catch"],
+  "tables": ["cobblemonCoiner:coin/catch"],
   "preserve_base_drops": true
 }

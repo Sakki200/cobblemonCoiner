@@ -1,6 +1,6 @@
 {
   "trigger": "droploottables:defeated",
-  "tables": ["coins:coin/defeat"],
+  "tables": ["cobblemonCoiner:coin/defeat"],
   "battle_types": ["pvw", "pvn", "pvp"],
   "preserve_base_drops": true
 }

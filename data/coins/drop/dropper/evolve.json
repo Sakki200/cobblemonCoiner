@@ -1,5 +1,5 @@
 {
   "trigger": "droploottables:evolved",
-  "tables": ["coins:coin/evolve"],
+  "tables": ["cobblemonCoiner:coin/evolve"],
   "preserve_base_drops": true
 }
